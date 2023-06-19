@@ -1,5 +1,5 @@
 # Solar System Simulation (coding in process)
-This repository contains a solar system simulation that allows you to explore the celestial bodies within our solar system. The simulation provides an interactive visualization of the planets' positions, sizes, and orbits.
+This repository contains a solar system simulation that allows you to explore the celestial bodies within our solar system. The simulation provides an interactive visualization of the planets' positions, sizes, and orbits .
 
 ### Features
 - Realistic rendering of the planets and their relative sizes.
